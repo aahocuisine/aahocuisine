@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2d46dda8_dd48d28f",
+        "filename": "Test/test.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1016814
+      },
+      "writtenOn": "2019-07-22T06:19:19Z",
+      "side": 1,
+      "message": "I would have done this",
+      "range": {
+        "startLine": 1,
+        "startChar": 21,
+        "endLine": 1,
+        "endChar": 25
+      },
+      "revId": "181157df518383ec981f5f968d8e8f8b7d6f7b9d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
